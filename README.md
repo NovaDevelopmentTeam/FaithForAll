@@ -16,14 +16,6 @@ Wir wollen Menschen helfen:
 
 ---
 
-## 📂 Inhalt
-- 📜 `papers/` — Argumentationspapiere (z. B. über Kleidung, Gender, LGBTQ+)
-- 📚 `verses/` — Bibel- & Koranverse mit Kontext
-- 📝 `docs/` — Quellen, Links, Leselisten
-- 💡 `ideas/` — Offene Diskussionsansätze
-
----
-
 ## ⚖️ Lizenz
 Frei nutzbar & teilbar. Glauben gehört allen — nicht wenigen.
 
