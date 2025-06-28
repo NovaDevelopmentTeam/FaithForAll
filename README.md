@@ -28,3 +28,5 @@ Wir wollen Menschen helfen:
 Frei nutzbar & teilbar. Glauben gehört allen — nicht wenigen.
 
 ---
+
+[Das ganze Paper ist hier:](README2.md)
