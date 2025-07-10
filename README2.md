@@ -75,4 +75,4 @@ Doch bei genauerem Hinsehen zeigen sich massive Widersprüche: Vieles, was angeb
 
 ---
 
-**Autor: [Dein Name]**
+**Autor: Jonas Gries**
